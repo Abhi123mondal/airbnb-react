@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Abhi123mondal.github.io/airbnb-react/static/css/main.5361a27b.css",
+    "main.js": "/Abhi123mondal.github.io/airbnb-react/static/js/main.69686a8e.js",
+    "static/js/787.d7ff2e53.chunk.js": "/Abhi123mondal.github.io/airbnb-react/static/js/787.d7ff2e53.chunk.js",
+    "static/media/water.jpg": "/Abhi123mondal.github.io/airbnb-react/static/media/water.55c72ce0ec20385c4581.jpg",
+    "static/media/yellow.jpg": "/Abhi123mondal.github.io/airbnb-react/static/media/yellow.2d0ecdc6c5763b99d211.jpg",
+    "static/media/ball.jpg": "/Abhi123mondal.github.io/airbnb-react/static/media/ball.e3aac68a6d27dffc4a3d.jpg",
+    "static/media/airbnb-logo.png": "/Abhi123mondal.github.io/airbnb-react/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "index.html": "/Abhi123mondal.github.io/airbnb-react/index.html",
+    "main.5361a27b.css.map": "/Abhi123mondal.github.io/airbnb-react/static/css/main.5361a27b.css.map",
+    "main.69686a8e.js.map": "/Abhi123mondal.github.io/airbnb-react/static/js/main.69686a8e.js.map",
+    "787.d7ff2e53.chunk.js.map": "/Abhi123mondal.github.io/airbnb-react/static/js/787.d7ff2e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5361a27b.css",
+    "static/js/main.69686a8e.js"
+  ]
+}
